@@ -1,6 +1,6 @@
 # WeAdapta: Inclusión a través del juego
 
-![WeAdapta Logo](https://weadapta.org/wp-content/uploads/2024/11/LOGOTIPOS_RGB_completo_morado.png)
+<img src="https://weadapta.org/wp-content/uploads/2024/11/LOGOTIPOS_RGB_completo_morado.png" alt="WeAdapta Logo" width="300"/>
 
 **Descripción**  
 WeAdapta es una organización sin fines de lucro que adapta juguetes para niños con discapacidades motoras o sensoriales, promoviendo la inclusión y el acceso igualitario al juego. Los juguetes adaptados son distribuidos gratuitamente a familias y centros educativos o terapéuticos.  
