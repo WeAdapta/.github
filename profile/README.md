@@ -1,15 +1,16 @@
-## Hi there 👋
+# WeAdapta: Inclusión a través del juego
 
-<!--
+**Descripción**  
+WeAdapta es una organización sin fines de lucro que adapta juguetes para niños con discapacidades motoras o sensoriales, promoviendo la inclusión y el acceso igualitario al juego. Los juguetes adaptados son distribuidos gratuitamente a familias y centros educativos o terapéuticos.  
 
-**Here are some ideas to get you started:**
+**Tecnología y Método**  
+Con un equipo interdisciplinario, WeAdapta utiliza electrónica, robótica y comunicación accesible para modificar juguetes y garantizar su funcionalidad para niños con diferentes capacidades.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## ¿Cómo puedes ayudar?
+
+1. **Donar juguetes:** Nuevos o usados que puedan ser adaptados.
+2. **Voluntariado:** Participa aportando habilidades en diseño, tecnología o logística.
+3. **Difusión:** Comparte su labor para llegar a más personas e instituciones.
 
 
 ## 🌟 ¡Conecta con nosotros! 🌟
