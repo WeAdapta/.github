@@ -16,7 +16,7 @@
 
 Síguenos en nuestras redes sociales para estar al tanto de todas las novedades:
 
-- 📸 [Instagram](https://www.instagram.com/weadapta/) - Inspiración y noticias en imágenes.
-- 🐦 [Twitter](https://x.com/weadapta) - Lo último en adaptaciones y sostenibilidad.
-- 💼 [LinkedIn](https://www.linkedin.com/company/weadapta) - Únete a nuestra comunidad profesional.
-- 🌐 [Visítanos en nuestra web](https://weadapta.org/) - Descubre más sobre lo que hacemos.
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Us-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/weadapta/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Us-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/weadapta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/weadapta)
+[![Web](https://img.shields.io/badge/Website-Visit%20Us-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://weadapta.org/)
