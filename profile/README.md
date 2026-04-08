@@ -1,7 +1,7 @@
 # WeAdapta: Inclusión a través del juego
 
 <div align="center">
-  <img src="https://weadapta.org/wp-content/uploads/2024/11/LOGOTIPOS_RGB_completo_morado.png" alt="WeAdapta Logo" width="300"/>
+  <img src="LOGOTIPOS_RGB_completo_morado.png" alt="WeAdapta Logo" width="300"/>
 </div>
 
 **Descripción**  
