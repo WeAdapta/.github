@@ -5,7 +5,7 @@
 </div>
 
 **Descripción**  
-WeAdapta es una organización sin fines de lucro que adapta juguetes para niños con discapacidades motoras o sensoriales, promoviendo la inclusión y el acceso igualitario al juego. Los juguetes adaptados son distribuidos gratuitamente a familias y centros educativos o terapéuticos.  
+WeAdapta Technologies es una empresa tecnológica que adapta juguetes para niños con discapacidades motoras o sensoriales, promoviendo la inclusión y el acceso igualitario al juego. Los juguetes adaptados son distribuidos gratuitamente a familias y centros educativos o terapéuticos.  
 
 **Tecnología y Método**  
 Con un equipo interdisciplinario, WeAdapta utiliza electrónica, robótica y comunicación accesible para modificar juguetes y garantizar su funcionalidad para niños con diferentes capacidades.
